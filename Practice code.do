@@ -40,3 +40,6 @@ display "Number of variables with yesno label is `i'"
  * Exercise 2.3
  assert (own2wheelertheft==1 & own2wheelertheftnum!=. & own2wheelertheftvictim_1!=.)| (own2wheelertheft==2 & own2wheelertheftnum==. & own2wheelertheftvictim_1==.)
  assert (own2wheelertheftvictim_1 !=own2wheelertheftvictim_2) | own2wheelertheftvictim_1 ==.
+
+
+ 
